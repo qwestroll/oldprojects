@@ -7,7 +7,7 @@ package firstproject;
 
 import java.util.Scanner;
 
-/**
+/** I could not find the project descriptions, briefly there is variety of areas to collect points. Darts are randomly thrown.
  *
  * @author qwest
  */
