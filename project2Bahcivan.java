@@ -8,7 +8,7 @@ package ıtısbelongstobahcivan;
 import java.util.Scanner;
 
 /**
- *
+ * Mini math quiz game with timer, nothing fancy.
  * @author qwest
  */
 public class project2Bahcivan {
